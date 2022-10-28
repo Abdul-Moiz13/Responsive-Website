@@ -1,0 +1,8 @@
+#client-section::before {
+  height: 129px;
+}
+#clients img{
+  height: auto;
+  width: 55px;
+  padding: 10px 8;
+}
